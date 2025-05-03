@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Montserrat;
+    src: url(Montserrat-VariableFont_wght.ttf);
+}
+
+h1 {
+    text-align: center;
+    font-family: Montserrat;
+    color: chocolate;
+}
+
+a {
+    color: black;
+    text-align: center;
+}

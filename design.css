@@ -1,0 +1,17 @@
+@font-face {
+    font-family: Montserrat;
+    src: url(fonts/Montserrat-VariableFont_wght.ttf);
+}
+
+h1 {
+    text-align: center;
+    color: chocolate;
+    font-family: Montserrat;
+}
+
+#AllGames {
+    color: black;
+    position: absolute;
+    top: 10px;
+    left: 40px;
+}
