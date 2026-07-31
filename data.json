@@ -505,6 +505,14 @@
         },
 
         {
+            "title": "Papa's Cheeseria",
+            "image": "gamesimages/papascheeseria.png",
+            "link": "games/papascheeseria.html",
+            "category": "skill",
+            "group": "Papa"
+        },
+
+        {
             "title": "There is no Game",
             "image": "gamesimages/thereisnogame.png",
             "link": "games/thereisnogame.html"
