@@ -513,6 +513,14 @@
         },
 
         {
+            "title": "Papa's Pastaria",
+            "image": "gamesimages/papaspastaria.png",
+            "link": "games/papaspastaria.html",
+            "category": "skill",
+            "group": "Papa"
+        },
+
+        {
             "title": "There is no Game",
             "image": "gamesimages/thereisnogame.png",
             "link": "games/thereisnogame.html"
