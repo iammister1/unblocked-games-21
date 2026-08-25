@@ -1486,6 +1486,13 @@
             "image": "gamesimages/fancypants3.png",
             "link": "games/fancypants3.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Coreball",
+            "image": "gamesimages/coreball.png",
+            "link": "games/coreball.html",
+            "category": "skill"
         }
     ]
 }
