@@ -1493,6 +1493,27 @@
             "image": "gamesimages/coreball.png",
             "link": "games/coreball.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Time Shooter",
+            "image": "gamesimages/timeshooter.png",
+            "link": "games/timeshooter.html",
+            "category": "skill"
+        },
+
+        {
+            "title": "Time Shooter 2",
+            "image": "gamesimages/timeshooter2.png",
+            "link": "games/timeshooter2.html",
+            "category": "skill"
+        },
+
+        {
+            "title": "Time Shooter 3",
+            "image": "gamesimages/timeshooter3.png",
+            "link": "games/timeshooter3.html",
+            "category": "skill"
         }
     ]
 }
