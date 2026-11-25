@@ -1514,6 +1514,13 @@
             "image": "gamesimages/timeshooter3.png",
             "link": "games/timeshooter3.html",
             "category": "skill"
+        },
+
+        {
+            "title": "Pokemon Emerald",
+            "image": "gamesimages/pokemonemerald.png",
+            "link": "games/pokemonemerald.html",
+            "category": "retro"
         }
     ]
 }
